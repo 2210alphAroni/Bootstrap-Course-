@@ -3,8 +3,10 @@
         position: fixed;
         bottom: 0px;
         width: 100%;
+        background-color: white;
         left: 0px;
         justify-content: center !important;
+        padding: 5px 0px;
     }
 
     .whatsappbtn , .call{
@@ -22,6 +24,27 @@
     .bannerContent br{
         display: none;
     }
+
+    .bannerContent p , .bannerContent ul li{
+        font-size: 16px;
+    }
+
+    .bannerContentBtn {
+        flex-direction: column;
+    }
+
+    .bannerContentBtn button{
+        width: 100%;
+    }
+
+    .bannerForm {
+    padding: 20px;
+}
+
+    .count-section{
+    background-color: white;
+    padding: 0px 40px;
+}
 }
 
 @media (min-width: 1400px) {
