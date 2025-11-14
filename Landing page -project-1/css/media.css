@@ -45,6 +45,10 @@
     background-color: white;
     padding: 0px 40px;
 }
+
+.highlights-section h2{
+    font-size: 28px;
+}
 }
 
 @media (min-width: 1400px) {

@@ -99,3 +99,32 @@ body{
     color: #2699FB;
     font-weight: 700;
 }
+
+.highlights-section{
+    background-color: #F7FAFF;
+}
+
+.highlights-section h2{
+    font-size: 36px;
+    color: #0A2134;
+    font-weight: 700;
+}
+
+.highlights-section p{
+    font-size: 18px;
+}
+
+.highlights-items h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.highlights-items p{
+    font-size: 15px;
+}
+
+#navbarNav ul li a{
+    font-weight: bold;
+    margin-right: 15px;
+    color: #0ACEFE;
+}
