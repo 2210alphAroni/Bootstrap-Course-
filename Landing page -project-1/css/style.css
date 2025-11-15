@@ -128,3 +128,45 @@ body{
     margin-right: 15px;
     color: #0ACEFE;
 }
+
+.accordion-section{
+    background-color: #F7FAFF;
+}
+
+.accordion-section h2{
+    font-size: 44px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.accordion-section p{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.bt{
+    text-align: center;
+}
+
+.accordion-section .bookclassbtn{
+    background: linear-gradient( to right,  #0ACEFE, #2699FB);
+    padding: 10px 40px;
+    border-radius: 8px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    border: none;
+}
+
+.curriculam-section h2{
+    font-size: 44px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.curriculam-section p{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
